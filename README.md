@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Praveenterax/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -74,11 +74,10 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## OUTPUT IMAGES
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Praveenterax`, `repo_name`, `twitter_handle`, `Praveendunga`, `email_client`, `email`, `project_title`, `project_description`
+<img src="images/screenshot-1.png" width="200" height="400" />
+<img src="images/screenshot-2.png" width="200" height="400" />
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
