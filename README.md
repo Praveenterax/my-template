@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Praveenterax/repo_name">
-    <img src="logo.svg" alt="Logo" width="80" height="80">
+    <img src="images/letter-P-circle.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
